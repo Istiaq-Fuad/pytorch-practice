@@ -1,2 +1,9 @@
 MNIST
+FashionMNIST
+cifar-10*
 *.csv
+.idea/
+.lightning_studio/
+.vscode/
+.vscode-server/
+.wget-hsts
